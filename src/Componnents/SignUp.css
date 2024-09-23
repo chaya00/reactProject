@@ -1,0 +1,54 @@
+#fieldset {
+    width: 400px;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5%;
+    border:none;
+    box-shadow:rgb(182, 182, 185) 25px 15px 35px 0px;
+}
+
+#password {
+    text-align: left;
+    font-size: 18px;
+    /* font-family: Adobe Garamond Pro Bold; */
+}
+
+#username {
+    text-align: left;
+    font-size: 18px;
+    /* font-family: Adobe Garamond Pro Bold; */
+
+}
+
+#forgot {
+    text-align: right;
+    margin-left:60px;
+    font-size:15px;
+}
+
+
+#passplusforgot {
+    display: flex;
+    flex-direction: row;
+}
+#si{
+    font-size:25px;
+}
+#worn1{
+    display:none;
+}
+#checkbox{
+    display:flex;
+    flex-direction: row;
+}
+#agree{
+    font-size: 13px;
+}
+#your{
+    font-size: 13px;
+}
+.email{
+    font-size: 45px;
+  color: red;
+}

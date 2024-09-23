@@ -1,0 +1,14 @@
+#allCards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   padding-left: 55px;
+   padding-right:55px;
+   width: 90%;
+  }
+  #alll{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  

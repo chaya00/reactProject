@@ -1,0 +1,78 @@
+#all {
+    width: 600px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    background-color: rgb(245, 236, 226);
+    border-color: rgb(245, 236, 226);
+}
+
+#component {
+    width: 100%;
+    height: 950px;
+    background-repeat: no-repeat;
+    align-items: center;
+    background-size: 2000px;
+}
+
+#npdiv {
+    display: flex;
+    flex-direction: row;
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    justify-content: space-between;
+
+
+}
+
+#link {
+    display: flex;
+    flex-direction: row;
+    width: 480px;
+    height: 100px;
+    align-items: center;
+    /* justify-content: center; */
+    justify-content: space-between;
+
+}
+
+#password {
+    width: 120px;
+    height: 30px;
+}
+
+#username {
+    width: 120px;
+    height: 30px;
+}
+
+#submit {
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: rgb(245, 236, 226);
+    border-color: rgb(245, 236, 226);
+
+}
+
+#signUp {
+    width: 150px;
+    height: 50px;
+}
+
+#forgot {
+    width: 150px;
+    height: 50px;
+}
+
+#big {
+    font-size: 60px;
+color: rgb(47, 77, 17);
+}
+
+#ce {
+    font-size: 120px;
+}
