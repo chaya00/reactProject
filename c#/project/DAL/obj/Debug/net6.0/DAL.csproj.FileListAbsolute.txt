@@ -1,0 +1,42 @@
+C:\reactProject\C#\project\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\reactProject\C#\project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\reactProject\C#\project\DAL\bin\Debug\net6.0\DAL.dll
+C:\reactProject\C#\project\DAL\bin\Debug\net6.0\DAL.pdb
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.dll
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.pdb
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\reactProject\C#\project\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\לימודים\חיוש\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\לימודים\חיוש\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\לימודים\חיוש\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.dll
+D:\לימודים\חיוש\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.pdb
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.dll
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.pdb
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\לימודים\חיוש\C# חיוש\project\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\לימודים\ריאקט\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\לימודים\ריאקט\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\לימודים\ריאקט\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.dll
+D:\לימודים\ריאקט\C# חיוש\project\DAL\bin\Debug\net6.0\DAL.pdb
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.dll
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.pdb
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\לימודים\ריאקט\C# חיוש\project\DAL\obj\Debug\net6.0\ref\DAL.dll

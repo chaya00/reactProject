@@ -1,0 +1,644 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\c_and_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\c_and_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\lenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\lenddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\lend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\lend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\signingcerdinatls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\signingcerdinatls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\controllers\\lendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\controllers\\lendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\dto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\project.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\project.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\lendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\lendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27DEAFEE-E3A9-42DF-91CE-3189808174A9}|project\\project.csproj|solutionrelative:project\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7DFDE6-3601-476E-AA63-CAA845D452AC}|DTO\\DTO.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\jwtutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\ilendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\ilendrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\bll1\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CAC3F375-A460-433F-80AC-19D383AC9897}|BLL1\\BLL.csproj|solutionrelative:bll1\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|d:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactproject\\c# \u05D7\u05D9\u05D5\u05E9\\project\\dal\\migrations\\20240703075737_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAE1FBB-5C45-478D-90FC-CF736F108125}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20240703075737_d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C_AND_E.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\C_AND_E.cs",
+              "RelativeDocumentMoniker": "DAL\\C_AND_E.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\C_AND_E.cs",
+              "RelativeToolTip": "DAL\\C_AND_E.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommentDTO.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\CommentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CommentDTO.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\CommentDTO.cs",
+              "RelativeToolTip": "DTO\\CommentDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:49.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SigningCerdinatls.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\SigningCerdinatls.cs",
+              "RelativeDocumentMoniker": "BLL1\\SigningCerdinatls.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\SigningCerdinatls.cs",
+              "RelativeToolTip": "BLL1\\SigningCerdinatls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\appsettings.json",
+              "RelativeDocumentMoniker": "project\\appsettings.json",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\appsettings.json",
+              "RelativeToolTip": "project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T17:26:48.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "project\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Category.cs",
+              "RelativeDocumentMoniker": "DAL\\Category.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Category.cs",
+              "RelativeToolTip": "DAL\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lend.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Lend.cs",
+              "RelativeDocumentMoniker": "DAL\\Lend.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Lend.cs",
+              "RelativeToolTip": "DAL\\Lend.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:47.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LendDTO.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\LendDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LendDTO.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\LendDTO.cs",
+              "RelativeToolTip": "DTO\\LendDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Comment.cs",
+              "RelativeDocumentMoniker": "DAL\\Comment.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Comment.cs",
+              "RelativeToolTip": "DAL\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\CommentController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "project\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\ICommentRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ICommentRepository.cs",
+              "RelativeToolTip": "BLL1\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:49.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LendController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\LendController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\LendController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\LendController.cs",
+              "RelativeToolTip": "project\\Controllers\\LendController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "BLL1\\MappingProfile.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\MappingProfile.cs",
+              "RelativeToolTip": "BLL1\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\ProductRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ProductRepository.cs",
+              "RelativeToolTip": "BLL1\\ProductRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "project\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Properties\\launchSettings.json",
+              "RelativeToolTip": "project\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-11T11:48:35.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "project.csproj",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj",
+              "RelativeDocumentMoniker": "project\\project.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj",
+              "RelativeToolTip": "project\\project.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:26:48.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "project",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj",
+              "RelativeDocumentMoniker": "project\\project.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\project.csproj",
+              "RelativeToolTip": "project\\project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-11T10:03:22.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\UserRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\UserRepository.cs",
+              "RelativeToolTip": "BLL1\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DTO.csproj",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:26:49.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\CategoryRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\CategoryRepository.cs",
+              "RelativeToolTip": "BLL1\\CategoryRepository.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA7wDQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:49.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20240703075737_d.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Migrations\\20240703075737_d.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20240703075737_d.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Migrations\\20240703075737_d.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20240703075737_d.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T07:57:38.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CategoryDTO.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\CategoryDTO.cs",
+              "RelativeToolTip": "DTO\\CategoryDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:46.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LendRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\LendRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\LendRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\LendRepository.cs",
+              "RelativeToolTip": "BLL1\\LendRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\CommentRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\CommentRepository.cs",
+              "RelativeToolTip": "BLL1\\CommentRepository.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAA0wC0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Product.cs",
+              "RelativeDocumentMoniker": "DAL\\Product.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\Product.cs",
+              "RelativeToolTip": "DAL\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:46.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\IUserRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\IUserRepository.cs",
+              "RelativeToolTip": "BLL1\\IUserRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAjwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:26:48.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "project\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAcwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\project\\Controllers\\UserController.cs",
+              "RelativeToolTip": "project\\Controllers\\UserController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwBIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\IProductRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\IProductRepository.cs",
+              "RelativeToolTip": "BLL1\\IProductRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAjwBEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\User.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\User.cs",
+              "RelativeToolTip": "DAL\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "JwtUtils.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\JwtUtils.cs",
+              "RelativeDocumentMoniker": "BLL1\\JwtUtils.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\JwtUtils.cs",
+              "RelativeToolTip": "BLL1\\JwtUtils.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vw4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILendRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ILendRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\ILendRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ILendRepository.cs",
+              "RelativeToolTip": "BLL1\\ILendRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:48.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BLL1\\ICategoryRepository.cs",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\ICategoryRepository.cs",
+              "RelativeToolTip": "BLL1\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T17:26:49.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BLL.csproj",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL1\\BLL.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\BLL1\\BLL.csproj",
+              "RelativeToolTip": "BLL1\\BLL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:26:49.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E8\u05D9\u05D0\u05E7\u05D8\\reactProject\\C# \u05D7\u05D9\u05D5\u05E9\\project\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T17:26:49.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

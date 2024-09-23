@@ -1,0 +1,34 @@
+C:\reactProject\C#\project\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\reactProject\C#\project\DTO\bin\Debug\net6.0\DTO.dll
+C:\reactProject\C#\project\DTO\bin\Debug\net6.0\DTO.pdb
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.dll
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\DTO.pdb
+C:\reactProject\C#\project\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\לימודים\חיוש\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\לימודים\חיוש\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.dll
+D:\לימודים\חיוש\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.pdb
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.dll
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.pdb
+D:\לימודים\חיוש\C# חיוש\project\DTO\obj\Debug\net6.0\ref\DTO.dll
+D:\לימודים\ריאקט\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.deps.json
+D:\לימודים\ריאקט\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.dll
+D:\לימודים\ריאקט\C# חיוש\project\DTO\bin\Debug\net6.0\DTO.pdb
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.dll
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\refint\DTO.dll
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\DTO.pdb
+D:\לימודים\ריאקט\C# חיוש\project\DTO\obj\Debug\net6.0\ref\DTO.dll

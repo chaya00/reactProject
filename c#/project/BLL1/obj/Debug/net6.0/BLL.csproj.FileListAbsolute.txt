@@ -1,0 +1,51 @@
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\BLL.deps.json
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\BLL.dll
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\BLL.pdb
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\DAL.dll
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\DAL.pdb
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.dll
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\refint\BLL.dll
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\BLL.pdb
+C:\reactProject\C#\project\BLL1\obj\Debug\net6.0\ref\BLL.dll
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\DTO.dll
+C:\reactProject\C#\project\BLL1\bin\Debug\net6.0\DTO.pdb
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.deps.json
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.dll
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.pdb
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\DAL.dll
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\DTO.dll
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\DAL.pdb
+D:\לימודים\חיוש\C# חיוש\project\BLL1\bin\Debug\net6.0\DTO.pdb
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.dll
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\refint\BLL.dll
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.pdb
+D:\לימודים\חיוש\C# חיוש\project\BLL1\obj\Debug\net6.0\ref\BLL.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.deps.json
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\BLL.pdb
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\DAL.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\DTO.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\DAL.pdb
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\bin\Debug\net6.0\DTO.pdb
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.csproj.Up2Date
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\refint\BLL.dll
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\BLL.pdb
+D:\לימודים\ריאקט\C# חיוש\project\BLL1\obj\Debug\net6.0\ref\BLL.dll
